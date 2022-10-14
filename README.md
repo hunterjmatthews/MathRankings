@@ -1,2 +1,8 @@
-# Mathrankings
-A web app for ranking mathematics programs  according to their research output in selective venues, and for finding active faculty across a wide range of areas.  
+# Mathematics Rankings
+This ranking of top mathematics schools is designed to identify institutions and faculty actively engaged in reasrch accross a number of areas of mathematics. Rather than using US News and World Report's approach, which is exclusively based on surveys, this ranking is entirely metriccs-based. The approach we take is measuring the number of publications by faculty that have appeared at the most selective conferences in each area of mathematics.
+
+This approach is unlikey to be gamed, since publishing in such confrences is generally difficult: contrast this with other approaches like citation-based metrics, which have been repatedly shown to be easy to manipulate.
+
+Now, when searching for graduate schools to apply to, you no longer need to go to each departments website to find subject area ranking and or publications. You can find all this pertinent data here.
+
+See our FAQ for more details.
