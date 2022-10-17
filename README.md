@@ -17,12 +17,12 @@
 ---
 
 ## Description[![](pin.svg)](#introduction)
-This ranking of top mathematics schools is designed to identify institutions and faculty actively engaged in research across a number of areas of mathematics. Rather than using US News and World Report's approach, which is exclusively based on surveys, this ranking is entirely metrics-based. The approach we take is measuring the number of publications by faculty that have appeared at the most selective conferences in each area of mathematics.
+When creating [MathRankings](https://www.mathrankings.com), the goal was to create a ranking of top mathematics schools based on faculty actively engaged in research across a number of areas of mathematics. At the time, the only ranking that existed was US News and World Report, whose approach is exclusively based on surveys. [MathRankings](https://www.mathrankings.com) approach is entirely metrics-based, measuring the number of publications by faculty that have appeared at the most selective conferences in each area of mathematics.
 
-This approach is unlikely to be gamed, since publishing in such conferences is generally difficult: contrast this with other approaches like citation-based metrics, which have been repeatedly shown to be easy to manipulate.
+With our approach, our metrics are unlikely to be gamed, since to publish in such conferences, one must pass rigorous scrutiny. Furthermore, we do not take a citation-based approach, as this has been repeatedly shown to be easy to manipulate. 
 
-Now, when searching for graduate schools to apply to, you no longer need to go to each department's website to find subject area ranking and or publications. You can find all this pertinent data here.
+With the creation of [MathRankings](https://www.mathrankings.com), you no longer need to visit each department’s website in order to gauge research output. You can now filter the top mathematics programs based on your preferred research area. 
 
-See our FAQ for more details.
+See our FAQ for more information.
 
 ---
